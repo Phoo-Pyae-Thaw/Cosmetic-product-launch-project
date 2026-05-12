@@ -11,8 +11,11 @@ This project demonstrates a complete product launch plan for a cosmetic product 
 
 
 -Plan a full product launch lifecycle
+
 -Manage tasks using Trello
+
 -Create timeline (Gantt-style)
+
 -Perform budgeting and risk assessment
 
 
