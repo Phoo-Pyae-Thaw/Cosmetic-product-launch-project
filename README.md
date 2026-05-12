@@ -1,6 +1,7 @@
  Cosmetic Product Launch Project
  
 📌 Overview
+
 This project demonstrates a complete product launch plan for a cosmetic product using Trello for project management.
 
 -The product developed: Tinted Vitamin C Sunscreen Serum SPF 50
