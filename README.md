@@ -6,6 +6,7 @@ This project demonstrates a complete product launch plan for a cosmetic product 
 -The product developed: Tinted Vitamin C Sunscreen Serum SPF 50
 
 
+
 *Objectives
 
 
