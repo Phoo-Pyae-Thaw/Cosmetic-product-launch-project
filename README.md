@@ -3,8 +3,8 @@
 📌 Overview
 
 This project demonstrates a complete product launch plan for a cosmetic product using Trello for project management.
-
 -The product developed: Tinted Vitamin C Sunscreen Serum SPF 50
+
 
 *Objectives
 -Plan a full product launch lifecycle
@@ -12,9 +12,11 @@ This project demonstrates a complete product launch plan for a cosmetic product 
 -Create timeline (Gantt-style)
 -Perform budgeting and risk assessment
 
+
 Tools Used
 -Trello (Project Management)
 -PowerPoint (Presentation)
+
 
 📊 Project Components
 -Task management board
@@ -23,13 +25,16 @@ Tools Used
 -Risk assessment
 -Marketing strategy
 
+
 🖼️ Project Preview
 Trello Board
 Timeline View
 
+
 🔗 Trello Board
 View full board:
 👉(https://trello.com/invite/b/6a02874befe11e74e1c5189c/ATTIc2261ed322d4e6ba7074d7156c449c247B96C37E/tinted-vitamin-c-sunscreen-serum-spf-50-plan)
+
 
 📁 Files Included
 Product_Launch_Plan.pptx
