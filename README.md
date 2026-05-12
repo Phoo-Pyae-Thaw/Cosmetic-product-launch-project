@@ -7,6 +7,8 @@ This project demonstrates a complete product launch plan for a cosmetic product 
 
 
 *Objectives
+
+
 -Plan a full product launch lifecycle
 -Manage tasks using Trello
 -Create timeline (Gantt-style)
@@ -14,11 +16,15 @@ This project demonstrates a complete product launch plan for a cosmetic product 
 
 
 Tools Used
+
+
 -Trello (Project Management)
 -PowerPoint (Presentation)
 
 
 📊 Project Components
+
+
 -Task management board
 -Timeline
 -Budget planning
@@ -27,11 +33,15 @@ Tools Used
 
 
 🖼️ Project Preview
+
+
 Trello Board
 Timeline View
 
 
 🔗 Trello Board
+
+
 View full board:
 👉(https://trello.com/invite/b/6a02874befe11e74e1c5189c/ATTIc2261ed322d4e6ba7074d7156c449c247B96C37E/tinted-vitamin-c-sunscreen-serum-spf-50-plan)
 
